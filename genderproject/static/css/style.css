@@ -1,0 +1,22 @@
+body{
+    background-image:url(../img/background.png)
+}
+.home{
+    text-align:center
+}
+#nr{
+    font-size:50px
+}
+.cross{
+    border:1px solid red;
+
+}
+/* Bootstrap edit */
+.btn-danger{
+    padding:30px 30px;
+    font-size:20px;
+    margin-top:10px
+}
+.form-control{
+
+}
